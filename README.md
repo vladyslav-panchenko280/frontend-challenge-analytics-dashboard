@@ -1,4 +1,5 @@
-# AppMetrics — Store Analytics Dashboard
+# AppMetrics — Store Analytics Dashboard. See assignment in the `assignment` branch!
+
 
 A React dashboard for visualizing mobile app performance metrics — downloads and revenue — with interactive date range filtering.
 
