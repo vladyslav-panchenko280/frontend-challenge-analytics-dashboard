@@ -1,0 +1,11 @@
+.cell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon {
+  border-radius: 4px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
